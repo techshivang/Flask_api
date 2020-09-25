@@ -1,5 +1,6 @@
 {
   "name": "Titanic Flask ML Model",
   "description": "Deploy a ML Model of Titanic survivorship to Heroku using a Flask API",
-  "keywords": ["python", "flask", "static"]
+  "keywords": ["python", "flask", "static"],
+  "Author":"Made By @TechyShivang."
 }
